@@ -1,0 +1,10 @@
+E:\VisualStudio2017\C# Projects\Variables\bin\Debug\netcoreapp2.0\Variables.deps.json
+E:\VisualStudio2017\C# Projects\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.json
+E:\VisualStudio2017\C# Projects\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.dev.json
+E:\VisualStudio2017\C# Projects\Variables\bin\Debug\netcoreapp2.0\Variables.dll
+E:\VisualStudio2017\C# Projects\Variables\bin\Debug\netcoreapp2.0\Variables.pdb
+E:\VisualStudio2017\C# Projects\Variables\obj\Debug\netcoreapp2.0\Variables.csproj.CoreCompileInputs.cache
+E:\VisualStudio2017\C# Projects\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfoInputs.cache
+E:\VisualStudio2017\C# Projects\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfo.cs
+E:\VisualStudio2017\C# Projects\Variables\obj\Debug\netcoreapp2.0\Variables.dll
+E:\VisualStudio2017\C# Projects\Variables\obj\Debug\netcoreapp2.0\Variables.pdb
